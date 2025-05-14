@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1263.9 693">
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1012.1 693">
   <!-- Generator: Adobe Illustrator 29.3.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 151)  -->
   <defs>
     <style>
@@ -11,195 +11,282 @@
         font-size: 18px;
       }
 
-      .st1, .st2, .st3 {
+      .st1, .st2, .st3, .st4, .st5 {
         isolation: isolate;
       }
 
-      .st1, .st3 {
+      .st1, .st5 {
         font-family: Arial-BoldMT, Arial;
         font-weight: 700;
       }
 
-      .st4 {
-        fill: #efefe9;
-      }
-
-      .st5 {
-        fill: #8c747d;
-      }
-
-      .st2, .st6 {
-        font-family: ArialMT, Arial;
-      }
-
-      .st2, .st3 {
-        font-size: 10px;
-      }
-
-      .st6 {
+      .st2 {
         font-size: 11px;
       }
 
+      .st2, .st3 {
+        font-family: ArialMT, Arial;
+      }
+
+      .st6 {
+        fill: #efefe9;
+      }
+
       .st7 {
-        fill: #e8d9cd;
+        fill: #8c747d;
+      }
+
+      .st3, .st5 {
+        font-size: 10px;
       }
 
       .st8 {
-        fill: #bba98f;
+        fill: #e8d9cd;
       }
 
       .st9 {
+        fill: #bba98f;
+      }
+
+      .st10 {
         fill: #959d90;
       }
     </style>
   </defs>
   <g id="path0">
-    <rect class="st4" x="340.4" y="80.8" width="38" height="27" rx="5" ry="5"/>
+    <rect class="st6" x="340.4" y="80.8" width="38" height="27" rx="5" ry="5"/>
   </g>
   <rect class="st0" x="99.4" y="80.3" width="38" height="27"/>
   <g id="path1">
-    <rect class="st4" x="340.4" y="109.8" width="38" height="28" rx="5" ry="5"/>
+    <rect class="st6" x="340.4" y="109.8" width="38" height="28" rx="5" ry="5"/>
   </g>
   <rect class="st0" x="99.4" y="109.3" width="38" height="28"/>
-  <text class="st3" transform="translate(341.4 70.5)"><tspan x="0" y="0">PAKISTAN</tspan></text>
+  <g class="st4">
+    <text class="st5" transform="translate(341.4 70.5)"><tspan x="0" y="0">PAKISTAN</tspan></text>
+  </g>
   <g id="path2">
-    <rect class="st4" x="120.4" y="80.3" width="218" height="57" rx="5" ry="5"/>
+    <rect class="st6" x="120.4" y="80.3" width="218" height="57" rx="5" ry="5"/>
   </g>
   <rect class="st0" x="139.4" y="80.3" width="218" height="57"/>
-  <text class="st3" transform="translate(282.4 134.4)"><tspan x="0" y="0">UNKNOWN</tspan></text>
+  <g class="st4">
+    <text class="st5" transform="translate(282.4 134.4)"><tspan x="0" y="0">UNKNOWN</tspan></text>
+  </g>
   <g id="path3">
-    <rect class="st4" x="99.4" y="80.3" width="19" height="57" rx="5" ry="5"/>
+    <rect class="st6" x="99.4" y="80.3" width="19" height="57" rx="5" ry="5"/>
   </g>
   <rect class="st0" x="359.4" y="80.3" width="19" height="57"/>
-  <text class="st3" transform="translate(57.3 131.3)"><tspan x="0" y="0">YEMEN</tspan></text>
+  <g class="st4">
+    <text class="st5" transform="translate(57.3 131.3)"><tspan x="0" y="0">YEMEN</tspan></text>
+  </g>
   <g id="path4">
-    <rect class="st7" x="99.4" y="143.3" width="279" height="291" rx="5" ry="5"/>
+    <rect class="st8" x="99.4" y="143.3" width="279" height="291" rx="5" ry="5"/>
   </g>
   <rect class="st0" x="99.4" y="143.3" width="279" height="291"/>
-  <text class="st3" transform="translate(102.4 428.3)"><tspan x="0" y="0">CHINA</tspan></text>
-  <text class="st1" transform="translate(102.4 162.3)"><tspan x="0" y="0">Dietary Supplement/</tspan><tspan x="0" y="21.6">Medications/</tspan><tspan x="0" y="43.2">Remedy</tspan></text>
+  <g class="st4">
+    <text class="st5" transform="translate(102.4 428.3)"><tspan x="0" y="0">CHINA</tspan></text>
+  </g>
+  <g class="st4">
+    <text class="st1" transform="translate(102.4 162.3)"><tspan x="0" y="0">Dietary Supplement/</tspan></text>
+    <text class="st1" transform="translate(102.4 183.9)"><tspan x="0" y="0">Medications/</tspan></text>
+    <text class="st1" transform="translate(102.4 205.5)"><tspan x="0" y="0">Remedy</tspan></text>
+  </g>
   <g id="path5">
-    <rect class="st7" x="99.4" y="436.3" width="55" height="107" rx="5" ry="5"/>
+    <rect class="st8" x="99.4" y="436.3" width="55" height="107" rx="5" ry="5"/>
   </g>
   <rect class="st0" x="99.4" y="436.3" width="55" height="107"/>
-  <text class="st3" transform="translate(102.4 526.3)"><tspan x="0" y="0">HONG</tspan><tspan x="0" y="12">KONG</tspan></text>
+  <g class="st4">
+    <text class="st5" transform="translate(102.4 526.3)"><tspan x="0" y="0">HONG</tspan></text>
+    <text class="st5" transform="translate(102.4 538.3)"><tspan x="0" y="0">KONG</tspan></text>
+  </g>
   <g id="path6">
-    <rect class="st7" x="99.4" y="545.3" width="55" height="20" rx="5" ry="5"/>
+    <rect class="st8" x="99.4" y="545.3" width="55" height="20" rx="5" ry="5"/>
   </g>
   <rect class="st0" x="99.4" y="545.3" width="55" height="20"/>
-  <text class="st3" transform="translate(101.4 562.3)"><tspan x="0" y="0">MALAYSIA</tspan></text>
+  <g class="st4">
+    <text class="st5" transform="translate(101.4 562.3)"><tspan x="0" y="0">MALAYSIA</tspan></text>
+  </g>
   <g id="path7">
-    <rect class="st7" x="99.4" y="567.3" width="55" height="85" rx="5" ry="5"/>
+    <rect class="st8" x="99.4" y="567.3" width="55" height="85" rx="5" ry="5"/>
   </g>
   <rect class="st0" x="99.4" y="567.3" width="55" height="85"/>
-  <text class="st3" transform="translate(101.4 646.3)"><tspan x="0" y="0">THAILAND</tspan></text>
+  <g class="st4">
+    <text class="st5" transform="translate(101.4 646.3)"><tspan x="0" y="0">THAILAND</tspan></text>
+  </g>
   <g id="path8">
-    <rect class="st7" x="156.4" y="436.3" width="222" height="216" rx="5" ry="5"/>
+    <rect class="st8" x="156.4" y="436.3" width="222" height="216" rx="5" ry="5"/>
   </g>
   <rect class="st0" x="156.4" y="436.3" width="222" height="216"/>
-  <text class="st3" transform="translate(159.4 646.3)"><tspan x="0" y="0">UNKNOWN</tspan></text>
+  <g class="st4">
+    <text class="st5" transform="translate(159.4 646.3)"><tspan x="0" y="0">UNKNOWN</tspan></text>
+  </g>
   <g id="path10">
-    <rect class="st9" x="782.4" y="80.3" width="93" height="249" rx="5" ry="5"/>
+    <rect class="st10" x="782.4" y="80.3" width="93" height="249" rx="5" ry="5"/>
   </g>
   <rect class="st0" x="782.4" y="80.3" width="93" height="249"/>
-  <text class="st3" transform="translate(785.4 323.3)"><tspan x="0" y="0">BANGLADESH</tspan></text>
+  <g class="st4">
+    <text class="st5" transform="translate(785.4 323.3)"><tspan x="0" y="0">BANGLADESH</tspan></text>
+  </g>
   <g id="path11">
-    <rect class="st9" x="782.4" y="331.3" width="93" height="11" rx="5" ry="5"/>
+    <rect class="st10" x="782.4" y="331.3" width="93" height="11" rx="5" ry="5"/>
   </g>
   <rect class="st0" x="782.4" y="331.3" width="93" height="11"/>
-  <text class="st3" transform="translate(785.4 352.3)"><tspan x="0" y="0">GUYANA</tspan></text>
+  <g class="st4">
+    <text class="st5" transform="translate(785.4 352.3)"><tspan x="0" y="0">GUYANA</tspan></text>
+  </g>
   <g id="path12">
-    <rect class="st9" x="782.4" y="344.3" width="93" height="64" rx="5" ry="5"/>
+    <rect class="st10" x="782.4" y="344.3" width="93" height="64" rx="5" ry="5"/>
   </g>
   <rect class="st0" x="782.4" y="344.3" width="93" height="64"/>
-  <text class="st3" transform="translate(785.4 400.3)"><tspan x="0" y="0">INDIA</tspan></text>
+  <g class="st4">
+    <text class="st5" transform="translate(785.4 400.3)"><tspan x="0" y="0">INDIA</tspan></text>
+  </g>
   <g id="path13">
-    <rect class="st9" x="782.4" y="410.3" width="93" height="25" rx="5" ry="5"/>
+    <rect class="st10" x="782.4" y="410.3" width="93" height="25" rx="5" ry="5"/>
   </g>
   <rect class="st0" x="782.4" y="410.3" width="93" height="25"/>
-  <text class="st3" transform="translate(785.4 431.3)"><tspan x="0" y="0">PAKISTAN</tspan></text>
+  <g class="st4">
+    <text class="st5" transform="translate(785.4 431.3)"><tspan x="0" y="0">PAKISTAN</tspan></text>
+  </g>
   <g id="path14">
-    <path class="st9" d="M385.4,80.8c0-.3,2.2-.5,5-.5h384c2.8,0,5,.2,5,.5s-2.2.5-5,.5h-384c-2.8,0-5-.2-5-.5Z"/>
+    <path class="st10" d="M385.4,80.8c0-.3,2.2-.5,5-.5h384c2.8,0,5,.2,5,.5s-2.2.5-5,.5h-384c-2.8,0-5-.2-5-.5h0Z"/>
   </g>
   <rect class="st0" x="385.4" y="80.3" width="394" height="1"/>
-  <text class="st3" transform="translate(388.4 101.3)"><tspan x="0" y="0">UNITED STATES</tspan></text>
-  <text class="st2" transform="translate(388.4 93.3)"><tspan x="0" y="0">Food-Spice</tspan></text>
+  <g class="st4">
+    <text class="st5" transform="translate(388.4 101.3)"><tspan x="0" y="0">UNITED STATES</tspan></text>
+  </g>
+  <g class="st4">
+    <text class="st3" transform="translate(388.4 93.3)"><tspan x="0" y="0">Food-Spice</tspan></text>
+  </g>
   <g id="path15">
-    <rect class="st9" x="385.4" y="83.3" width="394" height="352" rx="5" ry="5"/>
+    <rect class="st10" x="385.4" y="83.3" width="394" height="352" rx="5" ry="5"/>
   </g>
   <rect class="st0" x="385.4" y="83.3" width="394" height="352"/>
-  <text class="st3" transform="translate(389.4 431.3)"><tspan x="0" y="0">UNKNOWN</tspan></text>
+  <g class="st4">
+    <text class="st5" transform="translate(389.4 431.3)"><tspan x="0" y="0">UNKNOWN</tspan></text>
+  </g>
   <g id="path16">
-    <rect class="st8" x="682.4" y="607.3" width="50" height="45" rx="5" ry="5"/>
+    <rect class="st9" x="682.4" y="607.3" width="50" height="45" rx="5" ry="5"/>
   </g>
   <rect class="st0" x="779.4" y="394.3" width="50" height="45"/>
   <g id="path17">
-    <rect class="st8" x="682.4" y="441.3" width="50" height="69" rx="5" ry="5"/>
+    <rect class="st9" x="682.4" y="441.3" width="50" height="69" rx="5" ry="5"/>
   </g>
   <rect class="st0" x="682.4" y="441.3" width="50" height="69"/>
-  <text class="st3" transform="translate(687.7 504.3)"><tspan x="0" y="0">CHINA</tspan></text>
+  <g class="st4">
+    <text class="st5" transform="translate(687.7 504.3)"><tspan x="0" y="0">CHINA</tspan></text>
+  </g>
   <g id="path18">
-    <rect class="st8" x="682.4" y="512.3" width="50" height="69" rx="5" ry="5"/>
+    <rect class="st9" x="682.4" y="512.3" width="50" height="69" rx="5" ry="5"/>
   </g>
   <rect class="st0" x="682.4" y="512.3" width="50" height="69"/>
-  <text class="st3" transform="translate(687.7 576.3)"><tspan x="0" y="0">ISRAEL</tspan></text>
+  <g class="st4">
+    <text class="st5" transform="translate(687.7 576.3)"><tspan x="0" y="0">ISRAEL</tspan></text>
+  </g>
   <g id="path19">
-    <rect class="st8" x="682.4" y="583.3" width="50" height="22" rx="5" ry="5"/>
+    <rect class="st9" x="682.4" y="583.3" width="50" height="22" rx="5" ry="5"/>
   </g>
   <rect class="st0" x="682.4" y="583.3" width="50" height="22"/>
-  <text class="st3" transform="translate(687.7 602.3)"><tspan x="0" y="0">ITALY</tspan></text>
+  <g class="st4">
+    <text class="st5" transform="translate(687.7 602.3)"><tspan x="0" y="0">ITALY</tspan></text>
+  </g>
   <g id="path20">
-    <rect class="st8" x="734.4" y="441.3" width="79" height="74" rx="5" ry="5"/>
+    <rect class="st9" x="734.4" y="441.3" width="79" height="74" rx="5" ry="5"/>
   </g>
   <rect class="st0" x="734.4" y="441.3" width="79" height="74"/>
-  <text class="st3" transform="translate(737.4 509.3)"><tspan x="0" y="0">MEXICO</tspan></text>
+  <g class="st4">
+    <text class="st5" transform="translate(737.4 509.3)"><tspan x="0" y="0">MEXICO</tspan></text>
+  </g>
   <g id="path21">
-    <rect class="st8" x="734.4" y="517.3" width="79" height="28" rx="5" ry="5"/>
+    <rect class="st9" x="734.4" y="517.3" width="79" height="28" rx="5" ry="5"/>
   </g>
   <rect class="st0" x="734.4" y="517.3" width="79" height="28"/>
-  <text class="st3" transform="translate(737.4 540.3)"><tspan x="0" y="0">CARIBBEAN</tspan></text>
+  <g class="st4">
+    <text class="st5" transform="translate(737.4 540.3)"><tspan x="0" y="0">CARIBBEAN</tspan></text>
+  </g>
   <g id="path22">
-    <rect class="st8" x="734.4" y="547.3" width="79" height="29" rx="5" ry="5"/>
+    <rect class="st9" x="734.4" y="547.3" width="79" height="29" rx="5" ry="5"/>
   </g>
   <rect class="st0" x="734.4" y="547.3" width="79" height="29"/>
-  <text class="st3" transform="translate(737.4 572.3)"><tspan x="0" y="0">PAKISTAN</tspan></text>
+  <g class="st4">
+    <text class="st5" transform="translate(737.4 572.3)"><tspan x="0" y="0">PAKISTAN</tspan></text>
+  </g>
   <g id="path23">
-    <rect class="st8" x="734.4" y="578.3" width="79" height="74" rx="5" ry="5"/>
+    <rect class="st9" x="734.4" y="578.3" width="79" height="74" rx="5" ry="5"/>
   </g>
   <rect class="st0" x="734.4" y="578.3" width="79" height="74"/>
-  <text class="st3" transform="translate(737.4 646.3)"><tspan x="0" y="0">THE U.S.</tspan></text>
+  <g class="st4">
+    <text class="st5" transform="translate(737.4 646.3)"><tspan x="0" y="0">THE U.S.</tspan></text>
+  </g>
   <g id="path24">
-    <rect class="st8" x="386.4" y="441.3" width="294" height="211" rx="5" ry="5"/>
+    <rect class="st9" x="386.4" y="441.3" width="294" height="211" rx="5" ry="5"/>
   </g>
   <rect class="st0" x="386.4" y="441.3" width="294" height="211"/>
-  <text class="st3" transform="translate(389.4 646.3)"><tspan x="0" y="0">UNKNOWN</tspan></text>
+  <g class="st4">
+    <text class="st5" transform="translate(389.4 646.3)"><tspan x="0" y="0">UNKNOWN</tspan></text>
+  </g>
   <g id="path25">
-    <rect class="st5" x="857.8" y="596.6" width="19" height="56" rx="5" ry="5"/>
+    <rect class="st7" x="857.8" y="596.6" width="19" height="56" rx="5" ry="5"/>
   </g>
   <rect class="st0" x="817.4" y="441.3" width="19" height="56"/>
   <g id="path26">
-    <rect class="st5" x="817.8" y="596.6" width="38" height="56" rx="5" ry="5"/>
+    <rect class="st7" x="817.8" y="596.6" width="38" height="56" rx="5" ry="5"/>
   </g>
   <rect class="st0" x="741.4" y="383.3" width="38" height="56"/>
   <g id="path27">
-    <rect class="st5" x="817.4" y="441.3" width="59" height="153" rx="5" ry="5"/>
+    <rect class="st7" x="817.4" y="441.3" width="59" height="153" rx="5" ry="5"/>
   </g>
   <rect class="st0" x="817.4" y="441.3" width="59" height="153"/>
-  <text class="st3" transform="translate(820.4 590.3)"><tspan x="0" y="0">UNKNOWN</tspan></text>
-  <text class="st1" transform="translate(887.7 463.1)"><tspan x="0" y="0">Toys/</tspan><tspan x="0" y="21.6">Children&apos;s</tspan><tspan x="0" y="43.2">Products</tspan></text>
-  <text class="st3" transform="translate(786.3 340.3)"><tspan x="0" y="0">GUYANA</tspan></text>
-  <text class="st3" transform="translate(818.3 668.7)"><tspan x="0" y="0">THE U.S.</tspan></text>
-  <text class="st3" transform="translate(883.7 646.3)"><tspan x="0" y="0">TAJIKISTAN</tspan></text>
-  <text class="st3" transform="translate(682.4 668.7)"><tspan x="0" y="0">BANGLADESH</tspan></text>
-  <text class="st1" transform="translate(389.7 463.1)"><tspan x="0" y="0">Tableware/Pottery</tspan></text>
-  <text class="st1" transform="translate(102.4 98.3)"><tspan x="0" y="0">Cosmetics</tspan></text>
-  <text class="st3" transform="translate(741.4 75)"><tspan x="0" y="0">the U.S.</tspan></text>
-  <text class="st1" transform="translate(391.4 100.3)"><tspan x="0" y="0">Food-Spice</tspan></text>
-  <text class="st3" transform="translate(340.4 134.4)"><tspan x="0" y="0">GHANA</tspan></text>
-  <text class="st6" transform="translate(102.9 116.8)"><tspan x="0" y="0">14 cases</tspan></text>
-  <text class="st6" transform="translate(101 228.2)"><tspan x="0" y="0">115 cases</tspan></text>
-  <text class="st6" transform="translate(388.7 116.9)"><tspan x="0" y="0">140 cases</tspan></text>
-  <text class="st6" transform="translate(390.2 482.8)"><tspan x="0" y="0">74 cases</tspan></text>
-  <text class="st6" transform="translate(886.7 528.4)"><tspan x="0" y="0">11 cases</tspan></text>
-  <text class="st1" transform="translate(103.3 27.7)"><tspan x="0" y="0">Manufacturers of Consumer Goods Detected With Heavy Metal in 2023</tspan></text>
+  <g class="st4">
+    <text class="st5" transform="translate(820.4 590.3)"><tspan x="0" y="0">UNKNOWN</tspan></text>
+  </g>
+  <g class="st4">
+    <text class="st1" transform="translate(887.7 463.1)"><tspan x="0" y="0">Toys/</tspan></text>
+    <text class="st1" transform="translate(887.7 484.7)"><tspan x="0" y="0">Children&apos;s</tspan></text>
+    <text class="st1" transform="translate(887.7 506.3)"><tspan x="0" y="0">Products</tspan></text>
+  </g>
+  <g class="st4">
+    <text class="st5" transform="translate(786.3 340.3)"><tspan x="0" y="0">GUYANA</tspan></text>
+  </g>
+  <g class="st4">
+    <text class="st5" transform="translate(818.3 668.7)"><tspan x="0" y="0">THE U.S.</tspan></text>
+  </g>
+  <g class="st4">
+    <text class="st5" transform="translate(883.7 646.3)"><tspan x="0" y="0">TAJIKISTAN</tspan></text>
+  </g>
+  <g class="st4">
+    <text class="st5" transform="translate(682.4 668.7)"><tspan x="0" y="0">BANGLADESH</tspan></text>
+  </g>
+  <g class="st4">
+    <text class="st1" transform="translate(389.7 463.1)"><tspan x="0" y="0">Tableware/Pottery</tspan></text>
+  </g>
+  <g class="st4">
+    <text class="st1" transform="translate(102.4 98.3)"><tspan x="0" y="0">Cosmetics</tspan></text>
+  </g>
+  <g class="st4">
+    <text class="st5" transform="translate(741.4 75)"><tspan x="0" y="0">the U.S.</tspan></text>
+  </g>
+  <g class="st4">
+    <text class="st1" transform="translate(391.4 100.3)"><tspan x="0" y="0">Food-Spice</tspan></text>
+  </g>
+  <g class="st4">
+    <text class="st5" transform="translate(340.4 134.4)"><tspan x="0" y="0">GHANA</tspan></text>
+  </g>
+  <g class="st4">
+    <text class="st2" transform="translate(102.9 116.8)"><tspan x="0" y="0">14 cases</tspan></text>
+  </g>
+  <g class="st4">
+    <text class="st2" transform="translate(101 228.2)"><tspan x="0" y="0">115 cases</tspan></text>
+  </g>
+  <g class="st4">
+    <text class="st2" transform="translate(388.7 116.9)"><tspan x="0" y="0">140 cases</tspan></text>
+  </g>
+  <g class="st4">
+    <text class="st2" transform="translate(390.2 482.8)"><tspan x="0" y="0">74 cases</tspan></text>
+  </g>
+  <g class="st4">
+    <text class="st2" transform="translate(886.7 528.4)"><tspan x="0" y="0">11 cases</tspan></text>
+  </g>
+  <g class="st4">
+    <text class="st1" transform="translate(103.3 27.7)"><tspan x="0" y="0">Manufacturers of Consumer Goods Detected With Heavy Metal in 2023</tspan></text>
+  </g>
 </svg>
